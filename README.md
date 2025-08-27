@@ -11,7 +11,8 @@ It’s organized into themed projects that demonstrate my ability to design, bui
 - [detection-labs/](detection-labs/README.md) – Simulated adversary labs with custom detections (Splunk, Sigma, Zeek, Suricata)  
 - [analytics-notebooks/](analytics-notebooks/README.md) – Jupyter notebooks for log/alert analysis, anomaly detection, and visualization  
 - [container-security/](container-security/README.md) – Supply chain and runtime security projects (cosign, Trivy, Falco)  
-- [blog/](blog/README.md) – Writeups and documentation explaining my detection philosophy, attack simulations, and lessons learned  
+- [blog/](blog/README.md) – Writeups and documentation explaining my detection philosophy, attack simulations, and lessons learned
+- [immersivelabs](immersivelabs/README.md)
 
 ---
 
